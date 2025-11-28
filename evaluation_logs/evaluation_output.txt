@@ -1,0 +1,245 @@
+🧪 STARTING AGENT EVALUATION...
+==================================================
+📅 Testing for date input: '27 września 2025' (Polish Language Context)
+💽 Initializing database...
+
+🤖 CrowdBrew processes: {user_date_query}
+
+ ### Created new session: debug_session_id
+
+User > 27 września 2025
+research_agent > {
+    "research_summary": [
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Musical Mamma Mia! - PREMIERA",
+            "location": "Teatr Muzyczny w Łodzi (ul. Północna 47/51)",
+            "description": "Premiera musicalu \"Mamma Mia!\". Historia opowiada o poszukiwaniu ojca przez Sophie, która zaprasza na swój ślub trzech mężczyzn z przeszłości jej matki."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Pchli Targ w Tulipanie – jesienna edycja!",
+            "location": "Centrum Handlowe Tulipan (Łódź, al. Piłsudskiego 94)",
+            "description": "Jesienna edycja pchlego targu, gdzie można sprzedać lub kupić używane przedmioty, książki i bibeloty."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "parkrun Łódź",
+            "location": "Park im. ks. Józefa Poniatowskiego w Łodzi",
+            "description": "Bezpłatny bieg na dystansie 5 km z pomiarem czasu, odbywający się w przyjaznej atmosferze."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "EKO TARG w Tulipanie",
+            "location": "Centrum Handlowe Tulipan (Łódź, al. Piłsudskiego 94)",
+            "description": "Targ promujący świadome, lokalne i ekologiczne zakupy."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Warsztaty weterynaryjne - USG kawii i królików",
+            "location": "ORIENTARIUM Zoo Łódź",
+            "description": "Warsztaty weterynaryjne skupiające się na diagnostyce USG u kawii i królików."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "36. Międzynarodowy Festiwal Komiksu i Gier (MFKiG)",
+            "location": "Atlas Arena, Sport Arena, Stadion Miejski im. Władysława Króla w Łodzi",
+            "description": "Największe wydarzenie poświęcone komiksom, grom wideo, planszowym i popkulturze w Polsce i Europie Środkowo-Wschodniej. Festiwal potrwa do 28 września."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Light.Move.Festival (LMF) 2025",
+            "location": "Ulice Łodzi (m.in. Plac Wolności, ulica Piotrkowska)",
+            "description": "Festiwal światła w przestrzeni miejskiej, który potrwa do 28 września. Jest to 15. edycja wydarzenia."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Światowy Dzień Turystyki",
+            "location": "Cały świat / Polska",
+            "description": "Obchodzone corocznie święto mające na celu podnoszenie świadomości na temat znaczenia turystyki i jej wpływu społecznego, kulturowego i gospodarczego."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Dzień Polskiego Państwa Podziemnego",
+            "location": "Polska",
+            "description": "Upamiętnienie działalności Polskiego Państwa Podziemnego podczas II wojny światowej."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Święto Wojsk Obrony Terytorialnej",
+            "location": "Polska",
+            "description": "Dzień upamiętniający żołnierzy Wojsk Obrony Terytorialnej."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Live Jazz w Kiju",
+            "location": "Klub KIJ",
+            "description": "Wieczór z muzyką jazzową na żywo."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "CELEBRITY DEATH SLOT MACHINE",
+            "location": "UV Klub na Piotrkowskiej 217",
+            "description": "Koncert zespołu Celebrity Death Slot Machine."
+        }
+    ]
+}
+impact_agent > ```json
+{
+    "impact_summary": [
+        {
+            "event_date": "2025-09-27",
+            "event_name": "36. Międzynarodowy Festiwal Komiksu i Gier (MFKiG)",
+            "location": "Atlas Arena, Sport Arena, Stadion Miejski im. Władysława Króla w Łodzi",
+            "description": "Największe wydarzenie poświęcone komiksom, grom wideo, planszowym i popkulturze w Polsce i Europie Środkowo-Wschodniej. Festiwal potrwa do 28 września.",
+            "impact_score": 95,
+            "score_breakdown": {
+                "frekwencja": 20,
+                "zasięg": 20,
+                "zgodność": 18,
+                "różnorodność": 19,
+                "optymizm": 18
+            },
+            "comments": "To największe wydarzenie tego typu w Polsce i Europie Środkowo-Wschodniej, przyciągające tysiące fanów komiksów, gier i popkultury. Szerokie spektrum zainteresowań uczestników, od młodych po starszych, stwarza ogromny potencjał biznesowy."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Light.Move.Festival (LMF) 2025",
+            "location": "Ulice Łodzi (m.in. Plac Wolności, ulica Piotrkowska)",
+            "description": "Festiwal światła w przestrzeni miejskiej, który potrwa do 28 września. Jest to 15. edycja wydarzenia.",
+            "impact_score": 92,
+            "score_breakdown": {
+                "frekwencja": 19,
+                "zasięg": 19,
+                "zgodność": 17,
+                "różnorodność": 20,
+                "optymizm": 17
+            },
+            "comments": "Festiwal światła przyciąga tłumy mieszkańców i turystów, zamieniając całe miasto w galerię sztuki. Ma charakter rodzinny i kulturalny, co oznacza duży potencjał dla kawiarni oferującej przekąski i napoje."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Musical Mamma Mia! - PREMIERA",
+            "location": "Teatr Muzyczny w Łodzi (ul. Północna 47/51)",
+            "description": "Premiera musicalu \"Mamma Mia!\". Historia opowiada o poszukiwaniu ojca przez Sophie, która zaprasza na swój ślub trzech mężczyzn z przeszłości jej matki.",
+            "impact_score": 88,
+            "score_breakdown": {
+                "frekwencja": 18,
+                "zasięg": 17,
+                "zgodność": 20,
+                "różnorodność": 18,
+                "optymizm": 15
+            },
+            "comments": "Premiera znanego musicalu z przebojami ABBY przyciągnie szeroką publiczność. Teatr Muzyczny jest miejscem, gdzie widzowie często szukają kawiarni przed lub po spektaklu."
+        }
+    ]
+}
+```
+marketing_agent > ```json
+{
+    "output": [
+        {
+            "event_date": "2025-09-27",
+            "event_name": "36. Międzynarodowy Festiwal Komiksu i Gier (MFKiG)",
+            "location": "Atlas Arena, Sport Arena, Stadion Miejski im. Władysława Króla w Łodzi",
+            "description": "Największe wydarzenie poświęcone komiksom, grom wideo, planszowym i popkulturze w Polsce i Europie Środkowo-Wschodniej. Festiwal potrwa do 28 września.",
+            "facebook_post": "🚀 Gotowi na supermoce? 🚀\nJuż 27 września Łódź stanie się stolicą komiksów i gier! \nMy też mamy coś specjalnego dla fanów popkultury! Wpadnijcie do nas przed lub po eksploracji Atlas Areny i okolic.\n\n✨ Nasza propozycja dla prawdziwych bohaterów:\n☕ **Kawa 'Pixel Power'**: Intensywne espresso z dodatkiem słodkiego syropu karmelowego, zwieńczone chmurką bitej śmietany - idealna doładowanie energii!\n🍪 **Ciastko 'Level Up'**: Kruche ciasteczko w kształcie joysticka, oblane czekoladą. Wygrana gwarantowana!\n\nNiech moc będzie z Wami... i kawa też! 😉\n\n#MFKiG #Komiks #Gry #Popkultura #Lodz #Kawa #Ciastko #PixelPower #LevelUp #Festiwal",
+            "menu_items": [
+                {
+                    "name": "Kawa 'Pixel Power'",
+                    "desc": "Intensywne espresso z syropem karmelowym i bitą śmietaną.",
+                    "type": "coffee"
+                },
+                {
+                    "name": "Ciastko 'Level Up'",
+                    "desc": "Kruche ciasteczko w kształcie joysticka, oblane czekoladą.",
+                    "type": "cake"
+                }
+            ],
+            "impact_score": 95,
+            "score_breakdown": {
+                "frekwencja": 20,
+                "zasięg": 20,
+                "zgodność": 18,
+                "różnorodność": 19,
+                "optymizm": 18
+            },
+            "comments": "To największe wydarzenie tego typu w Polsce i Europie Środkowo-Wschodniej, przyciągające tysiące fanów komiksów, gier i popkultury. Szerokie spektrum zainteresowań uczestników, od młodych po starszych, stwarza ogromny potencjał biznesowy."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Light.Move.Festival (LMF) 2025",
+            "location": "Ulice Łodzi (m.in. Plac Wolności, ulica Piotrkowska)",
+            "description": "Festiwal światła w przestrzeni miejskiej, który potrwa do 28 września. Jest to 15. edycja wydarzenia.",
+            "facebook_post": "✨ Kiedy miasto rozbłyśnie, zatrzymajcie się na chwilę! ✨\n27 września Łódź zamieni się w magiczną galerię sztuki na Light.Move.Festival!\n\nPo zachwycie nad świetlnymi instalacjami zapraszamy Was do naszej kawiarni na rozgrzewkę i chwilę relaksu.\n\n💡 Nasza propozycja na rozświetlony wieczór:\n☕ **Latte 'Aurora Borealis'**: Delikatne latte z subtelnym syropem jagodowym, ozdobione pianką przypominającą zorzę polarną.\n🍰 **Deser 'Gwiezdny Pył'**: Mus z białej czekolady z owocami leśnymi, posypany jadalnym brokatem – prawdziwa uczta dla oczu i podniebienia!\n\nWpadnijcie złapać oddech i nabrać barw przed kolejnym spacerem po świetlistym mieście!\n\n#LMF2025 #LightMoveFestival #Lodz #FestiwalSwiatla #Kawa #Deser #AuroraBorealis #GwiezdnyPyl #MagiaSwiatla #SpacerPoLodzi",
+            "menu_items": [
+                {
+                    "name": "Latte 'Aurora Borealis'",
+                    "desc": "Delikatne latte z syropem jagodowym i pianką ozdobioną brokatem.",
+                    "type": "coffee"
+                },
+                {
+                    "name": "Deser 'Gwiezdny Pył'",
+                    "desc": "Mus z białej czekolady z owocami leśnymi, posypany jadalnym brokatem.",
+                    "type": "cake"
+                }
+            ],
+            "impact_score": 92,
+            "score_breakdown": {
+                "frekwencja": 19,
+                "zasięg": 19,
+                "zgodność": 17,
+                "różnorodność": 20,
+                "optymizm": 17
+            },
+            "comments": "Festiwal światła przyciąga tłumy mieszkańców i turystów, zamieniając całe miasto w galerię sztuki. Ma charakter rodzinny i kulturalny, co oznacza duży potencjał dla kawiarni oferującej przekąski i napoje."
+        },
+        {
+            "event_date": "2025-09-27",
+            "event_name": "Musical Mamma Mia! - PREMIERA",
+            "location": "Teatr Muzyczny w Łodzi (ul. Północna 47/51)",
+            "description": "Premiera musicalu \"Mamma Mia!\". Historia opowiada o poszukiwaniu ojca przez Sophie, która zaprasza na swój ślub trzech mężczyzn z przeszłości jej matki.",
+            "facebook_post": "🎶 Czy jesteś gotowy na przygodę z ABBA? 🎶\n27 września premiera musicalu \"Mamma Mia!\" w Teatrze Muzycznym w Łodzi! Przygotujcie się na dawkę przebojów i wzruszeń.\n\nZanim zanurzycie się w grecką wyspę Sophie, wpadnijcie do nas na coś wyjątkowego, co doda Wam energii przed spektaklem lub pozwoli delektować się wspomnieniami po nim.\n\n✨ Nasza propozycja dla fanów musicali:\n☕ **Kawa 'Dancing Queen'**: Aromatyczne cappuccino z nutą słodkiego syropu waniliowego i posypką z cynamonu – poczuj rytm!\n🍰 **Ciasto 'Honey, Honey'**: Delikatny sernik z miodem i orzechami włoskimi, pachnący jak lato na wyspie.\n\nZarezerwujcie stolik i pozwólcie sobie na chwilę słodkiego zapomnienia!\n\n#MammaMia #Musical #Premiera #Lodz #TeatrMuzyczny #Kawa #Ciastko #DancingQueen #HoneyHoney #ABBA #WieczorWMuzyce",
+            "menu_items": [
+                {
+                    "name": "Kawa 'Dancing Queen'",
+                    "desc": "Aromatyczne cappuccino z syropem waniliowym i cynamonem.",
+                    "type": "coffee"
+                },
+                {
+                    "name": "Ciasto 'Honey, Honey'",
+                    "desc": "Sernik z miodem i orzechami włoskimi.",
+                    "type": "cake"
+                }
+            ],
+            "impact_score": 88,
+            "score_breakdown": {
+                "frekwencja": 18,
+                "zasięg": 17,
+                "zgodność": 20,
+                "różnorodność": 18,
+                "optymizm": 15
+            },
+            "comments": "Premiera znanego musicalu z przebojami ABBY przyciągnie szeroką publiczność. Teatr Muzyczny jest miejscem, gdzie widzowie często szukają kawiarni przed lub po spektaklu."
+        }
+    ]
+}
+```
+
+🔄 Parsing response to JSON...
+✅ Success! JSON data received.
+   ➕ [2025-09-27] Processing: 36. Międzynarodowy Festiwal Komiksu i Gier (MFKiG)
+   (+) Adding a new event: '36. Międzynarodowy Festiwal Komiksu i Gier (MFKiG)'
+   ➕ [2025-09-27] Processing: Light.Move.Festival (LMF) 2025
+   (+) Adding a new event: 'Light.Move.Festival (LMF) 2025'
+   ➕ [2025-09-27] Processing: Musical Mamma Mia! - PREMIERA
+   (+) Adding a new event: 'Musical Mamma Mia! - PREMIERA'
+
+🧐 ANALYZING RESULTS:
+--------------------
+✅ SUCCESS: Received 3 processed events.
+✅ SUCCESS: JSON Structure is valid.
+   Sample Menu Item (Local Language): Kawa 'Pixel Power'
+
+🎉 EVALUATION COMPLETED SUCCESSFULLY.
+==================================================

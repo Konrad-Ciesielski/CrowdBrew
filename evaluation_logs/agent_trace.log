@@ -1,0 +1,13 @@
+2025-11-28 22:27:07,059 - google_adk.google.adk.runners - WARNING - App name mismatch detected. The runner is configured with app name "InMemoryRunner", but the root agent was loaded from "C:\Portfolio\CrowdBrew\venv\Lib\site-packages\google\adk\agents", which implies app name "agents".
+2025-11-28 22:27:07,410 - google_adk.google.adk.models.google_llm - INFO - Sending out request, model: gemini-2.5-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2025-11-28 22:27:07,410 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 22:27:11,885 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2025-11-28 22:27:11,889 - google_adk.google.adk.models.google_llm - INFO - Response received from the model.
+2025-11-28 22:27:11,891 - google_adk.google.adk.models.google_llm - INFO - Sending out request, model: gemini-2.5-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2025-11-28 22:27:11,891 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 22:27:16,691 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2025-11-28 22:27:16,691 - google_adk.google.adk.models.google_llm - INFO - Response received from the model.
+2025-11-28 22:27:16,698 - google_adk.google.adk.models.google_llm - INFO - Sending out request, model: gemini-2.5-flash-lite, backend: GoogleLLMVariant.GEMINI_API, stream: False
+2025-11-28 22:27:16,698 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-11-28 22:27:21,444 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent "HTTP/1.1 200 OK"
+2025-11-28 22:27:21,444 - google_adk.google.adk.models.google_llm - INFO - Response received from the model.
