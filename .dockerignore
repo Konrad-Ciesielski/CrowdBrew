@@ -1,0 +1,17 @@
+.env
+.env.local
+venv/
+.venv/
+.git/
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.db
+*.sqlite
+data/*.db
+.DS_Store
+.streamlit/
+evaluation_logs/
