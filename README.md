@@ -17,6 +17,9 @@
 This project was developed as a Capstone for the **Google AI Agents Intensive (2025)** in the *Enterprise Agents* track.
 
 ## 📸 See it in Action
+
+[![See CrowdBrew Demo on YouTube](https://img.youtube.com/vi/A3xpKf92_3A/maxresdefault.jpg)](https://youtu.be/A3xpKf92_3A)
+
 **Note:**
 Please note that due to the local nature of the application (for the city of Łódź, Poland) and the need to communicate with the model in Polish to achieve the best possible results, the user interface is in Polish. However, this application can be easily adapted to other locations by changing the language of the agent instructions and the UI.
 
